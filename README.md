@@ -45,3 +45,18 @@ In this project, let's build a **Guess-Number** by applying the javascript conce
 <br/>   
 
 
+
+## Time - Converter
+[VIEW THIS WEBSITE](https://hari09times.ccbp.tech/)
+
+In this project, let's build a **Time-Converter** by applying the javascript concepts.
+
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+    <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1683823588/times_h9wnkl.png"  alt="time-converter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>   
+
+
